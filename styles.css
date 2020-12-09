@@ -1,0 +1,33 @@
+div {
+  border: 1px solid black;
+  background-color: white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+p {
+  background-color: white;
+}
+
+
+div1 {
+ width:300px;
+  margin: 420px;
+  border: 1px solid white;
+}
+
+
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 585px;
+  height: 500px;
+}
+
+h1, h2 {text-align: center;}
+
+html {background-color:
+ #3366ff  ;}
